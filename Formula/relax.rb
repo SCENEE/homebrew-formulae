@@ -1,8 +1,8 @@
 class Relax < Formula
   desc "Release tool for Xcode"
   homepage "https://github.com/SCENEE/relax"
-  url "https://github.com/SCENEE/relax/archive/v0.3.1.tar.gz"
-  sha256 "a40a53ba05e5bdfc02fe7c7a7ce7bd05f382b91436dc2704c4f36c4458968d51"
+  url "https://github.com/SCENEE/relax/archive/v0.3.2.tar.gz"
+  sha256 "811d5f1f32bef3a752332511cd324d2ae849ad13c9ae605238f4b31d466b6692"
   head "https://github.com/SCENEE/relax.git"
 
   def install
