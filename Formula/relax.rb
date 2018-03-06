@@ -10,7 +10,7 @@ class Relax < Formula
     prefix.install Dir["bin", "libexec", "go", "completions"]
   end
 
-  def caveats; <<-EOS.undent
+  def caveats; <<~EOS
     To enable completion, add the following line to your bash profile:
       if which relax > /dev/null; then source "$(relax init completion)"; fi
 EOS
