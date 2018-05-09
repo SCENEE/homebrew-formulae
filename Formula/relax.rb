@@ -16,6 +16,11 @@ class Relax < Formula
   def caveats; <<~EOS
     To enable completion, add the following line to your bash profile:
       if which relax > /dev/null; then source "$(relax init completion)"; fi
+
+    To get started:
+      cd /path/to/project
+      relax init
+      relax dist adhoc
 EOS
   end
 
