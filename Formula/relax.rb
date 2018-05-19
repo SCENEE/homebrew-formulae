@@ -3,8 +3,8 @@ class Relax < Formula
 
   homepage "https://github.com/SCENEE/relax"
 
-  url "https://github.com/SCENEE/relax/archive/v0.6.0.tar.gz"
-  sha256 "00515f71c319bc4c39ac1df0bfdd4fa857e6a8454353ebc2d9649f527702aab2"
+  url "https://github.com/SCENEE/relax/archive/v0.6.1.tar.gz"
+  sha256 "d1a6327f78051bbd24c9be6d938a6653c8df9ad46530912dde135b268f74c948"
 
   head "https://github.com/SCENEE/relax.git"
 
